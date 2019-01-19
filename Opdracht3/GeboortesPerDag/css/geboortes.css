@@ -1,0 +1,11 @@
+html, body {
+  margin: 0;
+  height: 100%;
+  background-color: white;
+}
+
+path{
+  stroke: black;
+  fill: none;
+  stroke-width: 2px;
+}
